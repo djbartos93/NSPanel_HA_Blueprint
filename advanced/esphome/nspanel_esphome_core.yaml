@@ -56,7 +56,7 @@ wifi:
     - id: wifi_default
       ssid: ${wifi_ssid}
       password: ${wifi_password}
-    -id: wifi_alt
+    - id: wifi_alt
       ssid: ${wifi_alt_ssid}
       password: ${wifi_alt_password}
   ap:
